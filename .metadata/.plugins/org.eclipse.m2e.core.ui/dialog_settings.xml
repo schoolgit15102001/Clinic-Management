@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\iuh_4_1\Phan Tan\on tap ck\orm_2"/>
+			<item value="E:\iuh_4_1\Phan Tan\on tap ck\rmiorm_1\CourseOGMRMIClient"/>
+			<item value="E:\iuh_4_1\Phan Tan\on tap ck\rmiorm_1\CourseOGMRMI"/>
+			<item value="E:\iuh_4_1\Phan Tan\baitaplon\git clone\2.12.2\QuanLyBenhNhan"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+E:\iuh_4_1\Phan Tan\baitaplon\git clone\2.12.2\QuanLyBenhNhan\.metadata\.plugins\org.eclipse.jdt.core
